@@ -23,7 +23,7 @@
       <Content Name="Controls">
         <Items>
           <System.Windows.Forms.GroupBox Name="groupBox1" Id="GroupBox-8D6603DE9CFCADD">
-            <Location Value="12, 25" />
+            <Location Value="51, 45" />
             <Size Value="255, 88" />
             <TabIndex Value="0" />
             <TabStop Value="False" />
